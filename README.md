@@ -19,19 +19,19 @@ A curated list of awesome cloud security related resources.
 - [Compliances](#compliances)
 - [Benchmarks](#benchmarks)
 ## Compliances
-* CSA STAR
-* ISO/IEC 27017:2015
-* ISO/IEC 27018:2019
-* MTCS SS 584
-* NIST SP 500-291
+* CSA STAR(https://cloudsecurityalliance.org/star/)
+* ISO/IEC 27017:2015(https://www.iso.org/standard/43757.html)
+* ISO/IEC 27018:2019(https://www.iso.org/standard/76559.html)
+* MTCS SS 584(https://www.imda.gov.sg/regulations-and-licensing-listing/ict-standards-and-quality-of-service/IT-Standards-and-Frameworks/ComplianceAndCertification)
 
 ## Benchmarks
-* CIS Benchmark
+* CIS Benchmark(https://www.cisecurity.org/cis-benchmarks/)
 
 # Tools
 - [Infrastrcture](#infrastrcture)
 - [Container](#container)
 - [Serverless](#serverless)
+- [Application](#application)
 - [Native tools](#nativetools)
 
 ## Infrastrcture
