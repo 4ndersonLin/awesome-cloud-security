@@ -94,7 +94,7 @@ A curated list of awesome cloud security related resources.
 - [GCP](#gcp)
 
 ## AWS
-
+1. [Overiew of AWS Security](https://aws.amazon.com/security/)
 ## Azure
 1. [Azure security fundamentals](https://docs.microsoft.com/en-us/azure/security/fundamentals/)
 ## GCP
