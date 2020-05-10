@@ -45,9 +45,9 @@ A curated list of awesome cloud security related resources.
 ## Native tools
 
 # Reading Materials
-- [AWS][##aws]
-- [Azure][##azure]
-- [GCP][##gcp]
+- [AWS](##aws)
+- [Azure](##azure)
+- [GCP](##gcp)
 
 ## AWS
 
