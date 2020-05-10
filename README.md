@@ -6,13 +6,13 @@ A curated list of awesome cloud security related resources.
 </div>
 <br/>
 
-# awesome-cloud-security
+# Awesome Cloud Security
 [WIP] Awesome Cloud Security Resources 🛡️⚔️
 
 # Contents
 - [Standards](#standards)
 - [Tools](#tools)
-- [Reading materials](#readingmaterials)
+- [Reading materials](#reading-materials)
 - [Contributing](#contributing)
 
 # Standards
@@ -29,10 +29,10 @@ A curated list of awesome cloud security related resources.
 * CIS Benchmark
 
 # Tools
-- [Infrastrcture](##infrastrcture)
-- [Container](##container)
-- [Serverless](##serverless)
-- [Native tools](##nativetools)
+- [Infrastrcture](#infrastrcture)
+- [Container](#container)
+- [Serverless](#serverless)
+- [Native tools](#nativetools)
 
 ## Infrastrcture
 
@@ -45,9 +45,9 @@ A curated list of awesome cloud security related resources.
 ## Native tools
 
 # Reading Materials
-- [AWS](##aws)
-- [Azure](##azure)
-- [GCP](##gcp)
+- [AWS](#aws)
+- [Azure](#azure)
+- [GCP](#gcp)
 
 ## AWS
 
