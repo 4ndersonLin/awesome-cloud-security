@@ -36,9 +36,16 @@ A curated list of awesome cloud security related resources.
 - [Native tools](#nativetools)
 
 ## Infrastrcture
+* [Cloudmapper](https://github.com/duo-labs/cloudmapper): Analyze your AWS environments.
+* [Scans](https://github.com/cloudsploit/scans): Cloud security configuration checks.
+* [ScoutSuite](https://github.com/nccgroup/ScoutSuite): Multi-cloud security auditing tool.
+* [Open policy agent](https://www.openpolicyagent.org/): Policy-based control tool.
+* [cloud-custodian](https://github.com/cloud-custodian/cloud-custodian): Rules engine for cloud security, cost optimization, and governance.
 
 ## Container
-
+* [Falco](https://github.com/falcosecurity/falco): Container runtime security.
+* [Calico](https://github.com/projectcalico/calico): Network security policy enforcement between workloads.
+* [Open policy agent](https://www.openpolicyagent.org/): Policy-based control tool.
 ## Serverless
 
 ## Application
