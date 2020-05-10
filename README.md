@@ -16,8 +16,8 @@ A curated list of awesome cloud security related resources.
 - [Contributing](#contributing)
 
 # Standards
-- [Compliances](##compliances)
-- [Benchmarks](##benchmarks)
+- [Compliances](#compliances)
+- [Benchmarks](#benchmarks)
 ## Compliances
 * CSA STAR
 * ISO/IEC 27017:2015
