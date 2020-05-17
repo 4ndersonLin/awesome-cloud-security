@@ -46,7 +46,6 @@ A curated list of awesome cloud security related resources.
 * [pacbot](https://github.com/tmobile/pacbot): Policy as Code Bot.
 * [pacu](https://github.com/RhinoSecurityLabs/pacu): The AWS exploitation framework.
 * [Prowler](https://github.com/toniblyx/prowler): Command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
-* [S3 Inspector](https://github.com/kromtech/s3-inspector): Tool to check AWS S3 bucket permissions.
 * [ScoutSuite](https://github.com/nccgroup/ScoutSuite): Multi-cloud security auditing tool.
 * [Zeus](https://github.com/DenizParlak/Zeus): AWS Auditing & Hardening Tool.
 
@@ -56,54 +55,55 @@ A curated list of awesome cloud security related resources.
 * [Calico](https://github.com/projectcalico/calico): Network security policy enforcement between workloads.
 * [Open policy agent](https://www.openpolicyagent.org/): Policy-based control tool.
 ## Serverless
-
+* [Function Shield](https://github.com/puresec/FunctionShield): Protection/destection lib of aws lambda and gcp function.
+* [Lambda Guard](https://github.com/Skyscanner/LambdaGuard): AWS Lambda auditing tool.
 ## SaaS
 * [GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute): A script to enumerate Google Storage buckets.
+* [S3 Inspector](https://github.com/kromtech/s3-inspector): Tool to check AWS S3 bucket permissions.
 
 ## Native tools
 * AWS
-  * [Artifact](https://aws.amazon.com/artifact/)
-  * [Certificate Manager](https://aws.amazon.com/certificate-manager/)
-  * [CloudTrail](https://aws.amazon.com/cloudtrail/)
-  * [Config](https://aws.amazon.com/config/)
-  * [Detective](https://aws.amazon.com/detective/)
-  * [Firewall Manager](https://aws.amazon.com/firewall-manager/)
-  * [GuardDuty](https://aws.amazon.com/guardduty/)
-  * [CloudHSM](https://aws.amazon.com/cloudhsm/)
-  * [Inspector](https://aws.amazon.com/inspector/)
-  * [KMS](https://aws.amazon.com/kms/)
-  * [Macie](https://aws.amazon.com/macie/)
-  * [Secret Manager](https://aws.amazon.com/secrets-manager/)
-  * [Security Hub](https://aws.amazon.com/security-hub/)
-  * [Shield](https://aws.amazon.com/shield/)
-  * [VPC Flowlog](https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html)
-  * [WAF](https://aws.amazon.com/waf/)
+  * [Artifact](https://aws.amazon.com/artifact/): Compliance report selfservice.
+  * [Certificate Manager](https://aws.amazon.com/certificate-manager/): Private CA and certificate management service.
+  * [CloudTrail](https://aws.amazon.com/cloudtrail/): Record and log API call on AWS.
+  * [Config](https://aws.amazon.com/config/): Configuration and resources relationship monitoring.
+  * [Detective](https://aws.amazon.com/detective/): Analyze and visualize security data and help security investigations.
+  * [Firewall Manager](https://aws.amazon.com/firewall-manager/): Firewall management service.
+  * [GuardDuty](https://aws.amazon.com/guardduty/): IDS service
+  * [CloudHSM](https://aws.amazon.com/cloudhsm/): HSM service.
+  * [Inspector](https://aws.amazon.com/inspector/): Vulnerability discover and assessment service.
+  * [KMS](https://aws.amazon.com/kms/): KMS service
+  * [Macie](https://aws.amazon.com/macie/): Fully managed data security and data privacy service for S3.
+  * [Secret Manager](https://aws.amazon.com/secrets-manager/): Credential management service.
+  * [Security Hub](https://aws.amazon.com/security-hub/): Integration service for other AWS and third-party security service. 
+  * [Shield](https://aws.amazon.com/shield/): DDoS protection service.
+  * [VPC Flowlog](https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html): Log of network traffic.
+  * [WAF](https://aws.amazon.com/waf/): Web application firewall service.
 * Azure
   * [Application Gateway](https://azure.microsoft.com/en-us/services/application-gateway/): L7 load balancer with optional WAF function.
-  * [DDoS Protection](https://azure.microsoft.com/en-us/services/ddos-protection/)
-  * [Dedicated HSM](https://azure.microsoft.com/en-us/services/azure-dedicated-hsm/)
-  * [Key Vault](https://azure.microsoft.com/en-us/services/key-vault/)
-  * [Information Protection](https://azure.microsoft.com/en-us/services/information-protection/)
-  * [Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/)
-  * [Security Center](https://azure.microsoft.com/en-us/services/security-center/)
-  * [Sentinel](https://azure.microsoft.com/zh-tw/services/azure-sentinel/)
+  * [DDoS Protection](https://azure.microsoft.com/en-us/services/ddos-protection/): DDoS protection service.
+  * [Dedicated HSM](https://azure.microsoft.com/en-us/services/azure-dedicated-hsm/): HSM service.
+  * [Key Vault](https://azure.microsoft.com/en-us/services/key-vault/): KMS service
+  * [Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/): API log and monitoring related service.
+  * [Security Center](https://azure.microsoft.com/en-us/services/security-center/): Integration service for other Azure and third-party security service.
+  * [Sentinel](https://azure.microsoft.com/zh-tw/services/azure-sentinel/): SIEM service.
 * GCP
-  * [Access Transparency](https://cloud.google.com/access-transparency)
+  * [Access Transparency](https://cloud.google.com/access-transparency): Transparency log and control of GCP.
   * [Apigee Sense](https://cloud.google.com/apigee/api-management/apigee-sense): API security monitoring, detection, mitigation.
-  * [Armour](https://cloud.google.com/armor)
-  * [Asset Inventory](https://cloud.google.com/asset-inventory)
-  * [Audit Logs](https://cloud.google.com/audit-logs)
-  * [Cloud HSM](https://cloud.google.com/hsm)
-  * [Context-aware Access](https://cloud.google.com/context-aware-access)
-  * [DLP](https://cloud.google.com/dlp)
-  * [EKM](https://cloud.google.com/ekm)
-  * [Identity-Aware Proxy](https://cloud.google.com/iap)
-  * [KMS](https://cloud.google.com/kms)
-  * [Policy Intelligence](https://cloud.google.com/policy-intelligence)
-  * [Security Command Center](https://cloud.google.com/security-command-center)
-  * [Security Scanner](https://cloud.google.com/security-scanner)
-  * [Event Threat Detection](https://cloud.google.com/event-threat-detection)
-  * [VPC Service Controls](https://cloud.google.com/vpc-service-controls)
+  * [Armor](https://cloud.google.com/armor): DDoS protection and WAF service
+  * [Asset Inventory](https://cloud.google.com/asset-inventory): Asset monitoring service.
+  * [Audit Logs](https://cloud.google.com/audit-logs): API logs.
+  * [Cloud HSM](https://cloud.google.com/hsm): HSM service
+  * [Context-aware Access](https://cloud.google.com/context-aware-access): Enable zero trust access to applications and infrastructure.
+  * [DLP](https://cloud.google.com/dlp): DLP service:
+  * [EKM](https://cloud.google.com/ekm): External key management service
+  * [Identity-Aware Proxy](https://cloud.google.com/iap): Identity-Aware Proxy for protect the internal service.
+  * [KMS](https://cloud.google.com/kms): KMS service
+  * [Policy Intelligence](https://cloud.google.com/policy-intelligence): Detect the policy related risk.
+  * [Security Command Center](https://cloud.google.com/security-command-center): Integration service for other GCP security service.
+  * [Security Scanner](https://cloud.google.com/security-scanner): Application security scanner for GAE, GCE, GKE.
+  * [Event Threat Detection](https://cloud.google.com/event-threat-detection): Threat dection service.
+  * [VPC Service Controls](https://cloud.google.com/vpc-service-controls): GCP service security perimeter control.
 
 # Reading Materials
 - [AWS](#aws)
