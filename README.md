@@ -36,19 +36,29 @@ A curated list of awesome cloud security related resources.
 - [Native tools](#nativetools)
 
 ## Infrastrcture
+* [aws_pwn](https://github.com/dagrz/aws_pwn): A collection of AWS penetration testing junk
+* [aws-vault](https://github.com/99designs/aws-vault): A vault for securely storing and accessing AWS credentials in development environments.
+* [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat): "Vulnerable by Design" AWS deployment tool.
 * [Cloudmapper](https://github.com/duo-labs/cloudmapper): Analyze your AWS environments.
-* [Scans](https://github.com/cloudsploit/scans): Cloud security configuration checks.
-* [ScoutSuite](https://github.com/nccgroup/ScoutSuite): Multi-cloud security auditing tool.
+* [Cloudsploit Scans](https://github.com/cloudsploit/scans): Cloud security configuration checks.
+* [Cloud-custodian](https://github.com/cloud-custodian/cloud-custodian): Rules engine for cloud security, cost optimization, and governance.
 * [Open policy agent](https://www.openpolicyagent.org/): Policy-based control tool.
-* [cloud-custodian](https://github.com/cloud-custodian/cloud-custodian): Rules engine for cloud security, cost optimization, and governance.
+* [pacbot](https://github.com/tmobile/pacbot): Policy as Code Bot.
+* [pacu](https://github.com/RhinoSecurityLabs/pacu): The AWS exploitation framework.
+* [Prowler](https://github.com/toniblyx/prowler): Command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
+* [S3 Inspector](https://github.com/kromtech/s3-inspector): Tool to check AWS S3 bucket permissions.
+* [ScoutSuite](https://github.com/nccgroup/ScoutSuite): Multi-cloud security auditing tool.
+* [Zeus](https://github.com/DenizParlak/Zeus): AWS Auditing & Hardening Tool.
 
 ## Container
+* [ccat](https://github.com/RhinoSecurityLabs/ccat): Cloud Container Attack Tool.
 * [Falco](https://github.com/falcosecurity/falco): Container runtime security.
 * [Calico](https://github.com/projectcalico/calico): Network security policy enforcement between workloads.
 * [Open policy agent](https://www.openpolicyagent.org/): Policy-based control tool.
 ## Serverless
 
-## Application
+## SaaS
+* [GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute): A script to enumerate Google Storage buckets.
 
 ## Native tools
 * AWS
@@ -99,11 +109,17 @@ A curated list of awesome cloud security related resources.
 - [AWS](#aws)
 - [Azure](#azure)
 - [GCP](#gcp)
+- [Others](#others)
 
 ## AWS
 1. [Overiew of AWS Security](https://aws.amazon.com/security/)
+2. [AWS-IAM-Privilege-Escalation](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation): A centralized source of all AWS IAM privilege escalation methods.
 ## Azure
 1. [Azure security fundamentals](https://docs.microsoft.com/en-us/azure/security/fundamentals/)
 ## GCP
+1. [gke security scenarios demo](https://github.com/GoogleCloudPlatform/gke-security-scenarios-demo)
+
+## Others
+1. [Cloud Security Research](https://github.com/RhinoSecurityLabs/Cloud-Security-Research)
 
 # Contributing
