@@ -38,28 +38,35 @@ A curated list of awesome cloud security related resources.
 ## Infrastrcture
 * [aws_pwn](https://github.com/dagrz/aws_pwn): A collection of AWS penetration testing junk
 * [aws-vault](https://github.com/99designs/aws-vault): A vault for securely storing and accessing AWS credentials in development environments.
+* [azucar](https://github.com/nccgroup/azucar): Security auditing tool for Azure environments
 * [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat): "Vulnerable by Design" AWS deployment tool.
 * [Cloudmapper](https://github.com/duo-labs/cloudmapper): Analyze your AWS environments.
 * [Cloudsploit Scans](https://github.com/cloudsploit/scans): Cloud security configuration checks.
 * [Cloud-custodian](https://github.com/cloud-custodian/cloud-custodian): Rules engine for cloud security, cost optimization, and governance.
+* [cs suite](https://github.com/SecurityFTW/cs-suite): Tool for auditing the security posture of AWS/GCP/Azure.
+* [Forseti security](https://github.com/forseti-security/forseti-security): GCP inventory monitoring and policy enforcement tool.
 * [Open policy agent](https://www.openpolicyagent.org/): Policy-based control tool.
 * [pacbot](https://github.com/tmobile/pacbot): Policy as Code Bot.
 * [pacu](https://github.com/RhinoSecurityLabs/pacu): The AWS exploitation framework.
 * [Prowler](https://github.com/toniblyx/prowler): Command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
 * [ScoutSuite](https://github.com/nccgroup/ScoutSuite): Multi-cloud security auditing tool.
+* [Security Monkey](https://github.com/Netflix/security_monkey): Monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
+* [tfsec](https://github.com/liamg/tfsec): Static analysis powered security scanner for Terraform code.
 * [Zeus](https://github.com/DenizParlak/Zeus): AWS Auditing & Hardening Tool.
 
-## Container
+## Container as a service
+* [auditkube](https://github.com/opszero/auditkube): Audit for for EKS, AKS and GKE for HIPAA/PCI/SOC2 compliance and cloud security.
 * [ccat](https://github.com/RhinoSecurityLabs/ccat): Cloud Container Attack Tool.
 * [Falco](https://github.com/falcosecurity/falco): Container runtime security.
-* [Calico](https://github.com/projectcalico/calico): Network security policy enforcement between workloads.
+* [mkit](https://github.com/darkbitio/mkit): Managed kubernetes inspection tool.
 * [Open policy agent](https://www.openpolicyagent.org/): Policy-based control tool.
-## Serverless
-* [Function Shield](https://github.com/puresec/FunctionShield): Protection/destection lib of aws lambda and gcp function.
-* [Lambda Guard](https://github.com/Skyscanner/LambdaGuard): AWS Lambda auditing tool.
+
 ## SaaS
+* [Function Shield](https://github.com/puresec/FunctionShield): Protection/destection lib of aws lambda and gcp function.
 * [GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute): A script to enumerate Google Storage buckets.
+* [Lambda Guard](https://github.com/Skyscanner/LambdaGuard): AWS Lambda auditing tool.
 * [S3 Inspector](https://github.com/kromtech/s3-inspector): Tool to check AWS S3 bucket permissions.
+* [Serverless Goat](https://github.com/OWASP/Serverless-Goat): A serverless application demonstrating common serverless security flaws
 
 ## Native tools
 * AWS
@@ -115,12 +122,16 @@ A curated list of awesome cloud security related resources.
 1. [Overiew of AWS Security](https://aws.amazon.com/security/)
 2. [AWS-IAM-Privilege-Escalation](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation): A centralized source of all AWS IAM privilege escalation methods.
 ## Azure
-1. [Azure security fundamentals](https://docs.microsoft.com/en-us/azure/security/fundamentals/)
+1. [Overiew of Azure Security](https://azure.microsoft.com/en-us/overview/security/)
+2. [Azure security fundamentals](https://docs.microsoft.com/en-us/azure/security/fundamentals/)
+3. [MicroBurst](https://github.com/NetSPI/MicroBurst): A collection of scripts for assessing Microsoft Azure security
 ## GCP
-1. [gke security scenarios demo](https://github.com/GoogleCloudPlatform/gke-security-scenarios-demo)
+1. [Overiew of GCP Security](https://cloud.google.com/security)
+2. [gke security scenarios demo](https://github.com/GoogleCloudPlatform/gke-security-scenarios-demo)
 
 ## Others
 1. [Cloud Security Research](https://github.com/RhinoSecurityLabs/Cloud-Security-Research)
+2. [CSA cloud security guidance v4](https://cloudsecurityalliance.org/artifacts/security-guidance-v4/)
 
 # Contributing
 See [contributing](https://github.com/4ndersonLin/awesome-cloud-security/blob/master/CONTRIBUTING.md)
