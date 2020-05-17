@@ -123,3 +123,4 @@ A curated list of awesome cloud security related resources.
 1. [Cloud Security Research](https://github.com/RhinoSecurityLabs/Cloud-Security-Research)
 
 # Contributing
+See [contributing](https://github.com/4ndersonLin/awesome-cloud-security/blob/master/CONTRIBUTING.md)
