@@ -31,8 +31,7 @@ A curated list of awesome cloud security related resources.
 # Tools
 - [Infrastrcture](#infrastrcture)
 - [Container](#container)
-- [Serverless](#serverless)
-- [Application](#application)
+- [SaaS](#saas)
 - [Native tools](#nativetools)
 
 ## Infrastrcture
@@ -54,7 +53,7 @@ A curated list of awesome cloud security related resources.
 * [tfsec](https://github.com/liamg/tfsec): Static analysis powered security scanner for Terraform code.
 * [Zeus](https://github.com/DenizParlak/Zeus): AWS Auditing & Hardening Tool.
 
-## Container as a service
+## Container
 * [auditkube](https://github.com/opszero/auditkube): Audit for for EKS, AKS and GKE for HIPAA/PCI/SOC2 compliance and cloud security.
 * [ccat](https://github.com/RhinoSecurityLabs/ccat): Cloud Container Attack Tool.
 * [Falco](https://github.com/falcosecurity/falco): Container runtime security.
