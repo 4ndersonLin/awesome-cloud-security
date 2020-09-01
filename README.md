@@ -119,12 +119,12 @@ A curated list of awesome cloud security related resources.
 
 ## AWS
 1. [Overiew of AWS Security](https://aws.amazon.com/security/)
-2. [AWS-IAM-Privilege-Escalation](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation): A centralized source of all AWS IAM privilege escalation methods.
+2. [AWS-IAM-Privilege-Escalation by RhinoSecurityLabs](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation): A centralized source of all AWS IAM privilege escalation methods.
 3. [MITRE ATT&CK Matrices of AWS](https://attack.mitre.org/matrices/enterprise/cloud/aws/)
 ## Azure
 1. [Overiew of Azure Security](https://azure.microsoft.com/en-us/overview/security/)
 2. [Azure security fundamentals](https://docs.microsoft.com/en-us/azure/security/fundamentals/)
-3. [MicroBurst](https://github.com/NetSPI/MicroBurst): A collection of scripts for assessing Microsoft Azure security
+3. [MicroBurst by NetSPI](https://github.com/NetSPI/MicroBurst): A collection of scripts for assessing Microsoft Azure security
 4. [MITRE ATT&CK Matrices of Azure](https://attack.mitre.org/matrices/enterprise/cloud/azure/)
 ## GCP
 1. [Overiew of GCP Security](https://cloud.google.com/security)
@@ -132,7 +132,7 @@ A curated list of awesome cloud security related resources.
 3. [MITRE ATT&CK Matrices of GCP](https://attack.mitre.org/matrices/enterprise/cloud/gcp/)
 
 ## Others
-1. [Cloud Security Research](https://github.com/RhinoSecurityLabs/Cloud-Security-Research)
+1. [Cloud Security Research by RhinoSecurityLabs](https://github.com/RhinoSecurityLabs/Cloud-Security-Research) 
 2. [CSA cloud security guidance v4](https://cloudsecurityalliance.org/artifacts/security-guidance-v4/)
 
 # Contributing
