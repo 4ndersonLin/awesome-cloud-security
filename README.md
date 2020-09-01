@@ -13,6 +13,7 @@ A curated list of awesome cloud security related resources.
 - [Standards](#standards)
 - [Tools](#tools)
 - [Reading materials](#reading-materials)
+- [Resource](#resource)
 - [Contributing](#contributing)
 
 # Standards
@@ -130,10 +131,15 @@ A curated list of awesome cloud security related resources.
 1. [Overiew of GCP Security](https://cloud.google.com/security)
 2. [GKE security scenarios demo](https://github.com/GoogleCloudPlatform/gke-security-scenarios-demo)
 3. [MITRE ATT&CK Matrices of GCP](https://attack.mitre.org/matrices/enterprise/cloud/gcp/)
-
 ## Others
 1. [Cloud Security Research by RhinoSecurityLabs](https://github.com/RhinoSecurityLabs/Cloud-Security-Research) 
 2. [CSA cloud security guidance v4](https://cloudsecurityalliance.org/artifacts/security-guidance-v4/)
+
+# Resource
+- [AWS](#aws)
+
+## AWS
+1. [Bucket search by grayhatwarfare](https://buckets.grayhatwarfare.com/)
 
 # Contributing
 See [contributing](https://github.com/4ndersonLin/awesome-cloud-security/blob/master/CONTRIBUTING.md)
