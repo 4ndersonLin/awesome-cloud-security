@@ -136,10 +136,13 @@ A curated list of awesome cloud security related resources.
 2. [CSA cloud security guidance v4](https://cloudsecurityalliance.org/artifacts/security-guidance-v4/)
 
 # Resource
-- [AWS](#aws)
-
+- [AWS](#aws-1)
+- [Others](#others-1)
 ## AWS
 1. [Bucket search by grayhatwarfare](https://buckets.grayhatwarfare.com/)
+
+## Others
+1. [Mapping of On-Premises Security Controls vs. Major Cloud Providers Services](https://www.eventid.net/docs/onprem_to_cloud.asp)
 
 # Contributing
 See [contributing](https://github.com/4ndersonLin/awesome-cloud-security/blob/master/CONTRIBUTING.md)
