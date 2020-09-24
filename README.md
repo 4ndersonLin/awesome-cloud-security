@@ -44,6 +44,7 @@ A curated list of awesome cloud security related resources.
 * [Cloudsploit Scans](https://github.com/cloudsploit/scans): Cloud security configuration checks.
 * [Cloud-custodian](https://github.com/cloud-custodian/cloud-custodian): Rules engine for cloud security, cost optimization, and governance.
 * [cs suite](https://github.com/SecurityFTW/cs-suite): Tool for auditing the security posture of AWS/GCP/Azure.
+* [ElectricEye](https://github.com/jonrau1/ElectricEye): Continuously monitor AWS services for configurations.
 * [Forseti security](https://github.com/forseti-security/forseti-security): GCP inventory monitoring and policy enforcement tool.
 * [Open policy agent](https://www.openpolicyagent.org/): Policy-based control tool.
 * [pacbot](https://github.com/tmobile/pacbot): Policy as Code Bot.
