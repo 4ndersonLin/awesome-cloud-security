@@ -7,7 +7,7 @@ A curated list of awesome cloud security related resources.
 <br/>
 
 # Awesome Cloud Security
-🛡️Awesome Cloud Security Resources ⚔️
+🛡️ Awesome Cloud Security Resources ⚔️
 
 # Contents
 - [Standards](#standards)
@@ -38,7 +38,9 @@ A curated list of awesome cloud security related resources.
 ## Infrastrcture
 * [aws_pwn](https://github.com/dagrz/aws_pwn): A collection of AWS penetration testing junk
 * [aws-vault](https://github.com/99designs/aws-vault): A vault for securely storing and accessing AWS credentials in development environments.
-* [azucar](https://github.com/nccgroup/azucar): Security auditing tool for Azure environments
+* [awspx](https://github.com/FSecureLABS/awspx): A graph-based tool for visualizing effective access and resource relationships within AWS.
+* [azucar](https://github.com/nccgroup/azucar): A security auditing tool for Azure environments
+* [checkov](https://github.com/bridgecrewio/checkov): A static code analysis tool for infrastructure-as-code.
 * [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat): "Vulnerable by Design" AWS deployment tool.
 * [Cloudmapper](https://github.com/duo-labs/cloudmapper): Analyze your AWS environments.
 * [Cloudsploit Scans](https://github.com/cloudsploit/scans): Cloud security configuration checks.
@@ -46,12 +48,14 @@ A curated list of awesome cloud security related resources.
 * [cs suite](https://github.com/SecurityFTW/cs-suite): Tool for auditing the security posture of AWS/GCP/Azure.
 * [ElectricEye](https://github.com/jonrau1/ElectricEye): Continuously monitor AWS services for configurations.
 * [Forseti security](https://github.com/forseti-security/forseti-security): GCP inventory monitoring and policy enforcement tool.
+* [Hammer](https://github.com/dowjones/hammer): A multi-account cloud security tool for AWS. It identifies misconfigurations and insecure data exposures within most popular AWS resources.
 * [Open policy agent](https://www.openpolicyagent.org/): Policy-based control tool.
 * [pacbot](https://github.com/tmobile/pacbot): Policy as Code Bot.
 * [pacu](https://github.com/RhinoSecurityLabs/pacu): The AWS exploitation framework.
 * [Prowler](https://github.com/toniblyx/prowler): Command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
 * [ScoutSuite](https://github.com/nccgroup/ScoutSuite): Multi-cloud security auditing tool.
 * [Security Monkey](https://github.com/Netflix/security_monkey): Monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
+* [TerraGoat](https://github.com/bridgecrewio/terragoat): Bridgecrew's "Vulnerable by Design" Terraform repository.
 * [tfsec](https://github.com/liamg/tfsec): Static analysis powered security scanner for Terraform code.
 * [Zeus](https://github.com/DenizParlak/Zeus): AWS Auditing & Hardening Tool.
 
@@ -64,8 +68,10 @@ A curated list of awesome cloud security related resources.
 
 ## SaaS
 * [Function Shield](https://github.com/puresec/FunctionShield): Protection/destection lib of aws lambda and gcp function.
+* [FestIN](https://github.com/cr0hn/festin): S3 bucket finder and content discover.
 * [GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute): A script to enumerate Google Storage buckets.
 * [Lambda Guard](https://github.com/Skyscanner/LambdaGuard): AWS Lambda auditing tool.
+* [Policy Sentry](https://github.com/salesforce/policy_sentry): IAM Least Privilege Policy Generator.
 * [S3 Inspector](https://github.com/kromtech/s3-inspector): Tool to check AWS S3 bucket permissions.
 * [Serverless Goat](https://github.com/OWASP/Serverless-Goat): A serverless application demonstrating common serverless security flaws
 
@@ -123,6 +129,7 @@ A curated list of awesome cloud security related resources.
 1. [Overiew of AWS Security](https://aws.amazon.com/security/)
 2. [AWS-IAM-Privilege-Escalation by RhinoSecurityLabs](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation): A centralized source of all AWS IAM privilege escalation methods.
 3. [MITRE ATT&CK Matrices of AWS](https://attack.mitre.org/matrices/enterprise/cloud/aws/)
+4. [AWS security workshops](https://github.com/aws-samples/aws-security-workshops)
 ## Azure
 1. [Overiew of Azure Security](https://azure.microsoft.com/en-us/overview/security/)
 2. [Azure security fundamentals](https://docs.microsoft.com/en-us/azure/security/fundamentals/)
@@ -135,6 +142,7 @@ A curated list of awesome cloud security related resources.
 ## Others
 1. [Cloud Security Research by RhinoSecurityLabs](https://github.com/RhinoSecurityLabs/Cloud-Security-Research) 
 2. [CSA cloud security guidance v4](https://cloudsecurityalliance.org/artifacts/security-guidance-v4/)
+3. [Appsecco provides training](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training)
 
 # Resource
 - [AWS](#aws-1)
