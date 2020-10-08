@@ -41,7 +41,7 @@ A curated list of awesome cloud security related resources.
 * [awspx](https://github.com/FSecureLABS/awspx): A graph-based tool for visualizing effective access and resource relationships within AWS.
 * [azucar](https://github.com/nccgroup/azucar): A security auditing tool for Azure environments
 * [checkov](https://github.com/bridgecrewio/checkov): A static code analysis tool for infrastructure-as-code.
-* [](https://github.com/0xsha/CloudBrute): A multiple cloud enumerator.
+* [CloudBrute](https://github.com/0xsha/CloudBrute): A multiple cloud enumerator.
 * [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat): "Vulnerable by Design" AWS deployment tool.
 * [Cloudmapper](https://github.com/duo-labs/cloudmapper): Analyze your AWS environments.
 * [Cloudsploit Scans](https://github.com/cloudsploit/scans): Cloud security configuration checks.
@@ -58,6 +58,7 @@ A curated list of awesome cloud security related resources.
 * [ScoutSuite](https://github.com/nccgroup/ScoutSuite): Multi-cloud security auditing tool.
 * [Security Monkey](https://github.com/Netflix/security_monkey): Monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
 * [TerraGoat](https://github.com/bridgecrewio/terragoat): Bridgecrew's "Vulnerable by Design" Terraform repository.
+* [Terrascan](https://github.com/accurics/terrascan): Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 * [tfsec](https://github.com/liamg/tfsec): Static analysis powered security scanner for Terraform code.
 * [Zeus](https://github.com/DenizParlak/Zeus): AWS Auditing & Hardening Tool.
 
