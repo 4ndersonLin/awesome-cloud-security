@@ -37,6 +37,7 @@ A curated list of awesome cloud security related resources.
 
 ## Infrastrcture
 * [aws_pwn](https://github.com/dagrz/aws_pwn): A collection of AWS penetration testing junk
+* [aws_ir](https://github.com/ThreatResponse/aws_ir): Python installable command line utility for mitigation of instance and key compromises.
 * [aws-vault](https://github.com/99designs/aws-vault): A vault for securely storing and accessing AWS credentials in development environments.
 * [awspx](https://github.com/FSecureLABS/awspx): A graph-based tool for visualizing effective access and resource relationships within AWS.
 * [azucar](https://github.com/nccgroup/azucar): A security auditing tool for Azure environments
@@ -47,6 +48,7 @@ A curated list of awesome cloud security related resources.
 * [Cloudsploit Scans](https://github.com/cloudsploit/scans): Cloud security configuration checks.
 * [Cloud-custodian](https://github.com/cloud-custodian/cloud-custodian): Rules engine for cloud security, cost optimization, and governance.
 * [cs suite](https://github.com/SecurityFTW/cs-suite): Tool for auditing the security posture of AWS/GCP/Azure.
+* [diffy](https://github.com/Netflix-Skunkworks/diffy): Diffy is a digital forensics and incident response (DFIR) tool developed by Netflix.
 * [ElectricEye](https://github.com/jonrau1/ElectricEye): Continuously monitor AWS services for configurations.
 * [Forseti security](https://github.com/forseti-security/forseti-security): GCP inventory monitoring and policy enforcement tool.
 * [Hammer](https://github.com/dowjones/hammer): A multi-account cloud security tool for AWS. It identifies misconfigurations and insecure data exposures within most popular AWS resources.
