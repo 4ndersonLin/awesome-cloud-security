@@ -43,6 +43,7 @@ A curated list of awesome cloud security related resources.
 * [azucar](https://github.com/nccgroup/azucar): A security auditing tool for Azure environments
 * [checkov](https://github.com/bridgecrewio/checkov): A static code analysis tool for infrastructure-as-code.
 * [CloudBrute](https://github.com/0xsha/CloudBrute): A multiple cloud enumerator.
+* [cloud-forensics-utils]([https://github.com/google/cloud-forensics-utils): A python lib for DF & IR on the cloud.
 * [cloudlist](https://github.com/projectdiscovery/cloudlist): Listing Assets from multiple Cloud Providers.
 * [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat): "Vulnerable by Design" AWS deployment tool.
 * [Cloudmapper](https://github.com/duo-labs/cloudmapper): Analyze your AWS environments.
@@ -53,6 +54,7 @@ A curated list of awesome cloud security related resources.
 * [ElectricEye](https://github.com/jonrau1/ElectricEye): Continuously monitor AWS services for configurations.
 * [Forseti security](https://github.com/forseti-security/forseti-security): GCP inventory monitoring and policy enforcement tool.
 * [Hammer](https://github.com/dowjones/hammer): A multi-account cloud security tool for AWS. It identifies misconfigurations and insecure data exposures within most popular AWS resources.
+* [kics](https://github.com/Checkmarx/kics): Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code.
 * [Leonidas](https://github.com/FSecureLABS/leonidas): A framework for executing attacker actions in the cloud.
 * [Open policy agent](https://www.openpolicyagent.org/): Policy-based control tool.
 * [pacbot](https://github.com/tmobile/pacbot): Policy as Code Bot.
