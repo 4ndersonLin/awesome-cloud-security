@@ -43,6 +43,7 @@ A curated list of awesome cloud security related resources.
 * [azucar](https://github.com/nccgroup/azucar): A security auditing tool for Azure environments
 * [checkov](https://github.com/bridgecrewio/checkov): A static code analysis tool for infrastructure-as-code.
 * [CloudBrute](https://github.com/0xsha/CloudBrute): A multiple cloud enumerator.
+* [cloudlist](https://github.com/projectdiscovery/cloudlist): Listing Assets from multiple Cloud Providers.
 * [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat): "Vulnerable by Design" AWS deployment tool.
 * [Cloudmapper](https://github.com/duo-labs/cloudmapper): Analyze your AWS environments.
 * [Cloudsploit Scans](https://github.com/cloudsploit/scans): Cloud security configuration checks.
@@ -59,6 +60,7 @@ A curated list of awesome cloud security related resources.
 * [Prowler](https://github.com/toniblyx/prowler): Command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
 * [ScoutSuite](https://github.com/nccgroup/ScoutSuite): Multi-cloud security auditing tool.
 * [Security Monkey](https://github.com/Netflix/security_monkey): Monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
+* [Smogcloud](https://github.com/BishopFox/smogcloud): Find cloud assets that no one wants exposed.
 * [TerraGoat](https://github.com/bridgecrewio/terragoat): Bridgecrew's "Vulnerable by Design" Terraform repository.
 * [Terrascan](https://github.com/accurics/terrascan): Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 * [tfsec](https://github.com/liamg/tfsec): Static analysis powered security scanner for Terraform code.
@@ -93,6 +95,7 @@ A curated list of awesome cloud security related resources.
   * [Inspector](https://aws.amazon.com/inspector/): Vulnerability discover and assessment service.
   * [KMS](https://aws.amazon.com/kms/): KMS service
   * [Macie](https://aws.amazon.com/macie/): Fully managed data security and data privacy service for S3.
+  * [Network Firewall](https://aws.amazon.com/network-firewall/): Network firewall service.
   * [Secret Manager](https://aws.amazon.com/secrets-manager/): Credential management service.
   * [Security Hub](https://aws.amazon.com/security-hub/): Integration service for other AWS and third-party security service. 
   * [Shield](https://aws.amazon.com/shield/): DDoS protection service.
