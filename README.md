@@ -79,6 +79,7 @@ A curated list of awesome cloud security related resources.
 * [Open policy agent](https://www.openpolicyagent.org/): Policy-based control tool.
 
 ## SaaS
+* [binaryalert](https://github.com/airbnb/binaryalert): Serverless S3 yara scanner.
 * [Function Shield](https://github.com/puresec/FunctionShield): Protection/destection lib of aws lambda and gcp function.
 * [FestIN](https://github.com/cr0hn/festin): S3 bucket finder and content discover.
 * [GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute): A script to enumerate Google Storage buckets.
