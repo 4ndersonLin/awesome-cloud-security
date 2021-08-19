@@ -33,6 +33,7 @@ A curated list of awesome cloud security related resources.
 - [Infrastrcture](#infrastrcture)
 - [Container](#container)
 - [SaaS](#saas)
+- [Cross service type](#cross service type): TBD
 - [Native tools](#nativetools)
 
 ## Infrastrcture
@@ -44,7 +45,9 @@ A curated list of awesome cloud security related resources.
 * [checkov](https://github.com/bridgecrewio/checkov): A static code analysis tool for infrastructure-as-code.
 * [CloudBrute](https://github.com/0xsha/CloudBrute): A multiple cloud enumerator.
 * [cloud-forensics-utils]([https://github.com/google/cloud-forensics-utils): A python lib for DF & IR on the cloud.
+* [Cloud-Katana](https://github.com/Azure/Cloud-Katana): Automate the execution of simulation steps in multi-cloud and hybrid cloud environments.
 * [cloudlist](https://github.com/projectdiscovery/cloudlist): Listing Assets from multiple Cloud Providers.
+* [Cloud Sniper](https://github.com/cloud-sniper/cloud-sniper): A platform designed to manage Cloud Security Operations.
 * [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat): "Vulnerable by Design" AWS deployment tool.
 * [Cloudmapper](https://github.com/duo-labs/cloudmapper): Analyze your AWS environments.
 * [cloudsplaining](https://github.com/salesforce/cloudsplaining): An AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
@@ -62,6 +65,7 @@ A curated list of awesome cloud security related resources.
 * [pacbot](https://github.com/tmobile/pacbot): Policy as Code Bot.
 * [pacu](https://github.com/RhinoSecurityLabs/pacu): The AWS exploitation framework.
 * [Prowler](https://github.com/toniblyx/prowler): Command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
+* [Sadcloud](https://github.com/nccgroup/sadcloud): Tool for spinning up insecure AWS infrastructure with Terraform.
 * [ScoutSuite](https://github.com/nccgroup/ScoutSuite): Multi-cloud security auditing tool.
 * [Security Monkey](https://github.com/Netflix/security_monkey): Monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
 * [SkyArk](https://github.com/cyberark/SkyArk): Tool to helps to discover, assess and secure the most privileged entities in Azure and AWS.
