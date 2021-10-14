@@ -110,6 +110,7 @@ A curated list of awesome cloud security related resources.
   * [Secret Manager](https://aws.amazon.com/secrets-manager/): Credential management service.
   * [Security Hub](https://aws.amazon.com/security-hub/): Integration service for other AWS and third-party security service. 
   * [Shield](https://aws.amazon.com/shield/): DDoS protection service.
+  * [ThreatMapper](https://github.com/deepfence/ThreatMapper): Identify vulnerabilities in running containers, images, hosts and repositories.
   * [VPC Flowlog](https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html): Log of network traffic.
   * [WAF](https://aws.amazon.com/waf/): Web application firewall service.
 * Azure
