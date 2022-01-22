@@ -33,7 +33,7 @@ A curated list of awesome cloud security related resources.
 - [Infrastrcture](#infrastrcture)
 - [Container](#container)
 - [SaaS](#saas)
-- [Cross service type](#cross service type): TBD
+- [Penetration testing/leaerning](#penetration-testingleaerning)
 - [Native tools](#nativetools)
 
 ## Infrastrcture
