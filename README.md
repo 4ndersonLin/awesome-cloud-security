@@ -96,9 +96,11 @@ A curated list of awesome cloud security related resources.
 ## Native tools
 * AWS
   * [Artifact](https://aws.amazon.com/artifact/): Compliance report selfservice.
+  * [Audit manager](https://aws.amazon.com/audit-manager/): Continuously audit for AWS usage.
   * [Certificate Manager](https://aws.amazon.com/certificate-manager/): Private CA and certificate management service.
   * [CloudTrail](https://aws.amazon.com/cloudtrail/): Record and log API call on AWS.
   * [Config](https://aws.amazon.com/config/): Configuration and resources relationship monitoring.
+  * [Elastic Disaster Recovery](https://aws.amazon.com/disaster-recovery/): Application recovery service.
   * [Detective](https://aws.amazon.com/detective/): Analyze and visualize security data and help security investigations.
   * [Firewall Manager](https://aws.amazon.com/firewall-manager/): Firewall management service.
   * [GuardDuty](https://aws.amazon.com/guardduty/): IDS service
@@ -110,6 +112,7 @@ A curated list of awesome cloud security related resources.
   * [Secret Manager](https://aws.amazon.com/secrets-manager/): Credential management service.
   * [Security Hub](https://aws.amazon.com/security-hub/): Integration service for other AWS and third-party security service. 
   * [Shield](https://aws.amazon.com/shield/): DDoS protection service.
+  * [Single Sign-On](https://aws.amazon.com/single-sign-on/): Service of centrally manage access AWS or application.
   * [ThreatMapper](https://github.com/deepfence/ThreatMapper): Identify vulnerabilities in running containers, images, hosts and repositories.
   * [VPC Flowlog](https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html): Log of network traffic.
   * [WAF](https://aws.amazon.com/waf/): Web application firewall service.
@@ -126,8 +129,12 @@ A curated list of awesome cloud security related resources.
   * [Apigee Sense](https://cloud.google.com/apigee/api-management/apigee-sense): API security monitoring, detection, mitigation.
   * [Armor](https://cloud.google.com/armor): DDoS protection and WAF service
   * [Asset Inventory](https://cloud.google.com/asset-inventory): Asset monitoring service.
+  * [Assured workloads](https://cloud.google.com/assured-workloads/): Secure and compliant workloads.
   * [Audit Logs](https://cloud.google.com/audit-logs): API logs.
-  * [Cloud HSM](https://cloud.google.com/hsm): HSM service
+  * [Binanry Authorization](https://cloud.google.com/binary-authorization/): Binary authorization service for containers and serverless.
+  * [Cloud HSM](https://cloud.google.com/hsm): HSM service.
+  * [Cloud IDS](https://cloud.google.com/intrusion-detection-system/): IDS service.
+  * [Confidential VM](https://cloud.google.com/compute/confidential-vm/): Encrypt data in use with VM.
   * [Context-aware Access](https://cloud.google.com/context-aware-access): Enable zero trust access to applications and infrastructure.
   * [DLP](https://cloud.google.com/dlp): DLP service:
   * [EKM](https://cloud.google.com/ekm): External key management service
@@ -136,6 +143,7 @@ A curated list of awesome cloud security related resources.
   * [Policy Intelligence](https://cloud.google.com/policy-intelligence): Detect the policy related risk.
   * [Security Command Center](https://cloud.google.com/security-command-center): Integration service for other GCP security service.
   * [Security Scanner](https://cloud.google.com/security-scanner): Application security scanner for GAE, GCE, GKE.
+  * [Shielded VM](https://cloud.google.com/compute/shielded-vm/): VM with secure boot and vTPM.
   * [Event Threat Detection](https://cloud.google.com/event-threat-detection): Threat dection service.
   * [VPC Service Controls](https://cloud.google.com/vpc-service-controls): GCP service security perimeter control.
 
