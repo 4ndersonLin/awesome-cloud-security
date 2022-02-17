@@ -30,13 +30,13 @@ A curated list of awesome cloud security related resources.
 * [CIS Benchmark](https://www.cisecurity.org/cis-benchmarks/)
 
 # Tools
-- [Infrastrcture](#infrastrcture)
+- [Infrastructure](#infrastructure)
 - [Container](#container)
 - [SaaS](#saas)
-- [Penetration testing/leaerning](#penetration-testingleaerning)
+- [Penetration testing/learning](#penetration-testinglearning)
 - [Native tools](#nativetools)
 
-## Infrastrcture
+## Infrastructure
 * [aws_pwn](https://github.com/dagrz/aws_pwn): A collection of AWS penetration testing junk
 * [aws_ir](https://github.com/ThreatResponse/aws_ir): Python installable command line utility for mitigation of instance and key compromises.
 * [aws-vault](https://github.com/99designs/aws-vault): A vault for securely storing and accessing AWS credentials in development environments.
@@ -68,6 +68,7 @@ A curated list of awesome cloud security related resources.
 * [Security Monkey](https://github.com/Netflix/security_monkey): Monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
 * [SkyWrapper](https://github.com/cyberark/SkyWrapper): Tool helps to discover suspicious creation forms and uses of temporary tokens in AWS.
 * [Smogcloud](https://github.com/BishopFox/smogcloud): Find cloud assets that no one wants exposed.
+* [Steampipe](https://github.com/turbot/steampipe): A Postgres FDW that maps APIs to SQL, plus suites of [API plugins](https://hub.steampipe.io/plugins) and [compliance mods](https://hub.steampipe.io/mods) for AWS/Azure/GCP and many others.
 * [Terrascan](https://github.com/accurics/terrascan): Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 * [tfsec](https://github.com/liamg/tfsec): Static analysis powered security scanner for Terraform code.
 * [Zeus](https://github.com/DenizParlak/Zeus): AWS Auditing & Hardening Tool.
@@ -93,7 +94,7 @@ A curated list of awesome cloud security related resources.
 * [Serverless Goat](https://github.com/OWASP/Serverless-Goat): A serverless application demonstrating common serverless security flaws.
 * [SkyArk](https://github.com/cyberark/SkyArk): Tool to helps to discover, assess and secure the most privileged entities in Azure and AWS.
 
-## Penetration testing/leaerning
+## Penetration testing/learning
 * [ccat](https://github.com/RhinoSecurityLabs/ccat): Cloud Container Attack Tool.
 * [CloudBrute](https://github.com/0xsha/CloudBrute): A multiple cloud enumerator.
 * [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat): "Vulnerable by Design" AWS deployment tool.
