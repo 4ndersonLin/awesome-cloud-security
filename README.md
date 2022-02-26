@@ -39,7 +39,7 @@ A curated list of awesome cloud security related resources.
 ## Infrastructure
 * [aws_pwn](https://github.com/dagrz/aws_pwn): A collection of AWS penetration testing junk
 * [aws_ir](https://github.com/ThreatResponse/aws_ir): Python installable command line utility for mitigation of instance and key compromises.
-*[aws-firewall-factory](https://github.com/globaldatanet/aws-firewall-factory): Deploy, update, and stage your WAFs while managing them centrally via FMS.
+* [aws-firewall-factory](https://github.com/globaldatanet/aws-firewall-factory): Deploy, update, and stage your WAFs while managing them centrally via FMS.
 * [aws-vault](https://github.com/99designs/aws-vault): A vault for securely storing and accessing AWS credentials in development environments.
 * [awspx](https://github.com/FSecureLABS/awspx): A graph-based tool for visualizing effective access and resource relationships within AWS.
 * [azucar](https://github.com/nccgroup/azucar): A security auditing tool for Azure environments
