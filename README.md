@@ -168,6 +168,7 @@ A curated list of awesome cloud security related resources.
 2. [AWS-IAM-Privilege-Escalation by RhinoSecurityLabs](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation): A centralized source of all AWS IAM privilege escalation methods.
 3. [MITRE ATT&CK Matrices of AWS](https://attack.mitre.org/matrices/enterprise/cloud/aws/)
 4. [AWS security workshops](https://github.com/aws-samples/aws-security-workshops)
+5. [ThreatModel for Amazon S3](https://github.com/trustoncloud/threatmodel-for-aws-s3): Library of all the attack scenarios on Amazon S3, and how to mitigate them following a risk-based approach
 ## Azure
 1. [Overiew of Azure Security](https://azure.microsoft.com/en-us/overview/security/)
 2. [Azure security fundamentals](https://docs.microsoft.com/en-us/azure/security/fundamentals/)
