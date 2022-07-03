@@ -51,6 +51,7 @@ A curated list of awesome cloud security related resources.
 * [Cloudmapper](https://github.com/duo-labs/cloudmapper): Analyze your AWS environments.
 * [Cloudmarker](https://github.com/cloudmarker/cloudmarker): A cloud monitoring tool and framework.
 * [Cloudsploit](https://github.com/aquasecurity/cloudsploit): Cloud security configuration checks.
+* [CloudQuery](https://github.com/cloudquery/cloudquery): Open source cloud asset inventory with set of pre-baked SQL [policies](https://hub.cloudquery.io/policies) for security and compliance.
 * [Cloud-custodian](https://github.com/cloud-custodian/cloud-custodian): Rules engine for cloud security, cost optimization, and governance.
 * [consoleme](https://github.com/Netflix/consoleme): A Central Control Plane for AWS Permissions and Access
 * [cs suite](https://github.com/SecurityFTW/cs-suite): Tool for auditing the security posture of AWS/GCP/Azure.
