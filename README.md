@@ -105,6 +105,7 @@ A curated list of awesome cloud security related resources.
 * [Sadcloud](https://github.com/nccgroup/sadcloud): Tool for spinning up insecure AWS infrastructure with Terraform.
 * [TerraGoat](https://github.com/bridgecrewio/terragoat): Bridgecrew's "Vulnerable by Design" Terraform repository.
 * [WrongSecrets](https://github.com/commjoen/wrongsecrets): A vulnerable app which demonstrates how to not use secrets. With AWS/Azure/GCP support.
+* [cicd-goat](https://github.com/cider-security-research/cicd-goat): A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
 
 ## Native tools
 * AWS
