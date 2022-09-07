@@ -61,6 +61,7 @@ A curated list of awesome cloud security related resources.
 * [ElectricEye](https://github.com/jonrau1/ElectricEye): Continuously monitor AWS services for configurations.
 * [Forseti security](https://github.com/forseti-security/forseti-security): GCP inventory monitoring and policy enforcement tool.
 * [Hammer](https://github.com/dowjones/hammer): A multi-account cloud security tool for AWS. It identifies misconfigurations and insecure data exposures within most popular AWS resources.
+* [Hachoir](https://github.com/vstinner/hachoir): A Python library to view and edit a binary stream field by field.
 * [kics](https://github.com/Checkmarx/kics): Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code.
 * [Matano](https://github.com/matanolabs/matano): Open source serverless security lake platform on AWS that lets you ingest, store, and analyze data into an Apache Iceberg data lake and run realtime Python detections as code.
 * [Metabadger](https://github.com/salesforce/metabadger): Prevent SSRF attacks on AWS EC2 via automated upgrades to the more secure Instance Metadata Service v2 (IMDSv2).
@@ -87,6 +88,7 @@ A curated list of awesome cloud security related resources.
 * [aws-allowlister](https://github.com/salesforce/aws-allowlister): Automatically compile an AWS Service Control Policy with your preferred compliance frameworks.
 * [binaryalert](https://github.com/airbnb/binaryalert): Serverless S3 yara scanner.
 * [cloudsplaining](https://github.com/salesforce/cloudsplaining): An AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
+* [CloudHunter](https://github.com/belane/CloudHunter): Looks for AWS, Azure and Google cloud storage buckets and lists permissions for vulnerable buckets.
 * [Cloud Guardrails](https://github.com/salesforce/cloud-guardrails): Rapidly cherry-pick cloud security guardrails by generating Terraform files that create Azure Policy Initiatives.
 * [Function Shield](https://github.com/puresec/FunctionShield): Protection/destection lib of aws lambda and gcp function.
 * [FestIN](https://github.com/cr0hn/festin): S3 bucket finder and content discover.
