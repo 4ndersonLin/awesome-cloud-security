@@ -99,6 +99,7 @@ A curated list of awesome cloud security related resources.
 * [SkyArk](https://github.com/cyberark/SkyArk): Tool to helps to discover, assess and secure the most privileged entities in Azure and AWS.
 
 ## Penetration testing/learning
+* [AWSGoat](https://github.com/ine-labs/AWSGoat): AWSGoat is a vulnerable by design AWS infrastructure featuring OWASP Top 10 web application security risks (2021) and AWS service based misconfigurations.
 * [ccat](https://github.com/RhinoSecurityLabs/ccat): Cloud Container Attack Tool.
 * [CloudBrute](https://github.com/0xsha/CloudBrute): A multiple cloud enumerator.
 * [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat): "Vulnerable by Design" AWS deployment tool.
