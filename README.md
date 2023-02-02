@@ -179,6 +179,7 @@ A curated list of awesome cloud security related resources.
 3. [MicroBurst by NetSPI](https://github.com/NetSPI/MicroBurst): A collection of scripts for assessing Microsoft Azure security
 4. [MITRE ATT&CK Matrices of Azure](https://attack.mitre.org/matrices/enterprise/cloud/azure/)
 5. [Azure security center workflow automation](https://github.com/Azure/Azure-Security-Center/tree/master/Workflow%20automation)
+5. [Azure Security](https://www.manning.com/books/azure-security-2) - paid
 ## GCP
 1. [Overiew of GCP Security](https://cloud.google.com/security)
 2. [GKE security scenarios demo](https://github.com/GoogleCloudPlatform/gke-security-scenarios-demo)
