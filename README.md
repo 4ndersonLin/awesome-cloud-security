@@ -69,6 +69,7 @@ A curated list of awesome cloud security related resources.
 * [pacu](https://github.com/RhinoSecurityLabs/pacu): The AWS exploitation framework.
 * [Prowler](https://github.com/toniblyx/prowler): Command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
 * [ScoutSuite](https://github.com/nccgroup/ScoutSuite): Multi-cloud security auditing tool.
+* [Selefra](https://github.com/selefra/selefra): An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
 * [Security Monkey](https://github.com/Netflix/security_monkey): Monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
 * [SkyWrapper](https://github.com/cyberark/SkyWrapper): Tool helps to discover suspicious creation forms and uses of temporary tokens in AWS.
 * [Smogcloud](https://github.com/BishopFox/smogcloud): Find cloud assets that no one wants exposed.
