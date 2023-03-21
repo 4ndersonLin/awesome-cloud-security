@@ -68,8 +68,7 @@ A curated list of awesome cloud security related resources.
 * [pacbot](https://github.com/tmobile/pacbot): Policy as Code Bot.
 * [pacu](https://github.com/RhinoSecurityLabs/pacu): The AWS exploitation framework.
 * [Prowler](https://github.com/toniblyx/prowler): Command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
-* [ScoutSuite](https://github.com/nccgroup/ScoutSuite): Multi-cloud security auditing tool.
-* [Selefra](https://github.com/selefra/selefra): An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
+* [ScoutSuite](https://github.com/nccgroup/ScoutSuite): Multi-cloud security auditing tool
 * [Security Monkey](https://github.com/Netflix/security_monkey): Monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
 * [SkyWrapper](https://github.com/cyberark/SkyWrapper): Tool helps to discover suspicious creation forms and uses of temporary tokens in AWS.
 * [Smogcloud](https://github.com/BishopFox/smogcloud): Find cloud assets that no one wants exposed.
@@ -96,6 +95,7 @@ A curated list of awesome cloud security related resources.
 * [Lambda Guard](https://github.com/Skyscanner/LambdaGuard): AWS Lambda auditing tool.
 * [Policy Sentry](https://github.com/salesforce/policy_sentry): IAM Least Privilege Policy Generator.
 * [S3 Inspector](https://github.com/kromtech/s3-inspector): Tool to check AWS S3 bucket permissions.
+* [Selefra](https://github.com/selefra/selefra): An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
 * [Serverless Goat](https://github.com/OWASP/Serverless-Goat): A serverless application demonstrating common serverless security flaws.
 * [SkyArk](https://github.com/cyberark/SkyArk): Tool to helps to discover, assess and secure the most privileged entities in Azure and AWS.
 
