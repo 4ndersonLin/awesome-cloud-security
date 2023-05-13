@@ -210,7 +210,7 @@ A curated list of awesome cloud security related resources.
 3. [On-Demand: Container Security: Beginner Edition Bootcamp](https://bootcamps.pentesteracademy.com/course/container-security-on-demand) 
 
 # Trainings
-1. [Attacking and Defending AWS](https://tryhackme.com/path-action/attackinganddefendingaws/join) 
+1. [Attacking and Defending AWS](https://resources.tryhackme.com/attacking-and-defending-aws) 
 
 # Certifications
 1. [CCSP – Certified Cloud Security Professional](https://www.isc2.org/Certifications/CCSP) 
