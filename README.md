@@ -13,6 +13,11 @@ A curated list of awesome cloud security related resources.
 - [Standards](#standards)
 - [Tools](#tools)
 - [Reading materials](#reading-materials)
+- [Free Courses](#free-courses)
+- [Paid Courses](#paid-courses)
+- [Bootcamps](#bootcamps)
+- [Trainings](#trainings)
+- [Certifications](#certifications)
 - [Resource](#resource)
 - [Contributing](#contributing)
 
@@ -190,9 +195,33 @@ A curated list of awesome cloud security related resources.
 3. [Appsecco provides training](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training)
 4. [Cloud Risk Encyclopedia by Orca Security](https://orca.security/resources/cloud-risk-encyclopedia/): 900+ documented cloud security risks, with ability to filter by cloud vendor, compliance framework, risk category, and criticality.
 
+# Free Courses
+1. [AWS Security](https://www.youtube.com/playlist?list=PL0-xwzAwzllw_dvNfabV28-bpAEoMchd3)
+
+# Paid Courses
+1. [DevSecOps – Kubernetes DevOps & Security](https://kodekloud.com/courses/devsecops) 
+2. [DevSecOps: Insecure Docker Registry](https://www.pentesteracademy.com/course?id=48) 
+3. [Learn Cloud Security, Kubernetes, DevSecOps, and more](https://www.appsecengineer.com)
+4. [Certified Kubernetes Security Specialist (CKS)](https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks)
+
+# Bootcamps
+1. [On-Demand: DevSecOps: Beginner Edition Bootcamp](https://bootcamps.pentesteracademy.com/course/devsecops-on-demand) 
+2. [On-Demand: Cloud Security: AWS Edition Bootcamp](https://bootcamps.pentesteracademy.com/course/cloud-security-aws-on-demand) 
+3. [On-Demand: Container Security: Beginner Edition Bootcamp](https://bootcamps.pentesteracademy.com/course/container-security-on-demand) 
+
+# Trainings
+1. [Attacking and Defending AWS](https://tryhackme.com/path-action/attackinganddefendingaws/join) 
+
+# Certifications
+1. [CCSP – Certified Cloud Security Professional](https://www.isc2.org/Certifications/CCSP) 
+2. [AWS Certified Security - Specialty](https://aws.amazon.com/certification/certified-security-specialty) 
+3. [Microsoft Certified: Azure Security Engineer Associate](https://learn.microsoft.com/en-us/certifications/azure-security-engineer) 
+4. [Certified Kubernetes Security Specialist (CKS)](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist) 
+
 # Resource
 - [AWS](#aws-1)
 - [Others](#others-1)
+
 ## AWS
 1. [Bucket search by grayhatwarfare](https://buckets.grayhatwarfare.com/)
 
