@@ -103,6 +103,7 @@ A curated list of awesome cloud security related resources.
 * [CloudBrute](https://github.com/0xsha/CloudBrute): A multiple cloud enumerator.
 * [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat): "Vulnerable by Design" AWS deployment tool.
 * [Leonidas](https://github.com/FSecureLABS/leonidas): A framework for executing attacker actions in the cloud.
+* [Pwned Labs](https://pwnedlabs.io): Free hosted labs for learning cloud security.
 * [Sadcloud](https://github.com/nccgroup/sadcloud): Tool for spinning up insecure AWS infrastructure with Terraform.
 * [TerraGoat](https://github.com/bridgecrewio/terragoat): Bridgecrew's "Vulnerable by Design" Terraform repository.
 * [WrongSecrets](https://github.com/commjoen/wrongsecrets): A vulnerable app which demonstrates how to not use secrets. With AWS/Azure/GCP support.
