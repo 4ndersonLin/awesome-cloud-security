@@ -78,6 +78,7 @@ A curated list of awesome cloud security related resources.
 * [SkyWrapper](https://github.com/cyberark/SkyWrapper): Tool helps to discover suspicious creation forms and uses of temporary tokens in AWS.
 * [Smogcloud](https://github.com/BishopFox/smogcloud): Find cloud assets that no one wants exposed.
 * [Steampipe](https://github.com/turbot/steampipe): A Postgres FDW that maps APIs to SQL, plus suites of [API plugins](https://hub.steampipe.io/plugins) and [compliance mods](https://hub.steampipe.io/mods) for AWS/Azure/GCP and many others.
+* [Substation](https://github.com/brexhq/substation): Substation is a cloud native data pipeline and transformation toolkit written in Go.
 * [Terrascan](https://github.com/accurics/terrascan): Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 * [tfsec](https://github.com/liamg/tfsec): Static analysis powered security scanner for Terraform code.
 * [Zeus](https://github.com/DenizParlak/Zeus): AWS Auditing & Hardening Tool.
