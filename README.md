@@ -230,6 +230,7 @@ A curated list of awesome cloud security related resources.
 
 ## Others
 1. [Mapping of On-Premises Security Controls vs. Major Cloud Providers Services](https://www.eventid.net/docs/onprem_to_cloud.asp)
+1. [sase.cloud](https://sase.cloud): Independent SASE & SSE knowledge base with vendor reviews, Zero Trust deployment guides, and component deep-dives (ZTNA, SWG, CASB, DLP, FWaaS, DEM).
 
 # Contributing
 See [contributing](https://github.com/4ndersonLin/awesome-cloud-security/blob/master/CONTRIBUTING.md)
