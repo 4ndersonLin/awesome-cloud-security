@@ -55,6 +55,7 @@ A curated list of awesome cloud security related resources.
 * [Cloud Sniper](https://github.com/cloud-sniper/cloud-sniper): A platform designed to manage Cloud Security Operations.
 * [Cloudmapper](https://github.com/duo-labs/cloudmapper): Analyze your AWS environments.
 * [Cloudmarker](https://github.com/cloudmarker/cloudmarker): A cloud monitoring tool and framework.
+* [CloudSecure](https://github.com/carlosinfantes/cloudsecure): Open-source AWS security assessment platform with AI-powered analysis, Prowler integration, and automated CIS benchmark scanning. Built serverless with CDK, Lambda, and Step Functions.
 * [Cloudsploit](https://github.com/aquasecurity/cloudsploit): Cloud security configuration checks.
 * [CloudQuery](https://github.com/cloudquery/cloudquery): Open source cloud asset inventory with set of pre-baked SQL [policies](https://hub.cloudquery.io/policies) for security and compliance.
 * [Cloud-custodian](https://github.com/cloud-custodian/cloud-custodian): Rules engine for cloud security, cost optimization, and governance.
