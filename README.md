@@ -6,7 +6,7 @@ A curated list of awesome cloud security related resources.
 </div>
 <br/>
 
-# Awesome Cloud Securityf
+# Awesome Cloud Security
 🛡️ Awesome Cloud Security Resources ⚔️
 
 # Contents
@@ -113,7 +113,7 @@ A curated list of awesome cloud security related resources.
 * [Pwned Labs](https://pwnedlabs.io): Free hosted labs for learning cloud security.
 * [Sadcloud](https://github.com/nccgroup/sadcloud): Tool for spinning up insecure AWS infrastructure with Terraform.
 * [TerraGoat](https://github.com/bridgecrewio/terragoat): Bridgecrew's "Vulnerable by Design" Terraform repository.
-* [Vulert](Vulert.com): Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
+* [Vulert](https://vulert.com/): Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 * [WrongSecrets](https://github.com/commjoen/wrongsecrets): A vulnerable app which demonstrates how to not use secrets. With AWS/Azure/GCP support.
 
 ## Native tools
