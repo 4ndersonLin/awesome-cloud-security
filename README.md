@@ -74,6 +74,7 @@ A curated list of awesome cloud security related resources.
 * [pacu](https://github.com/RhinoSecurityLabs/pacu): The AWS exploitation framework.
 * [PMapper](https://github.com/nccgroup/PMapper): A tool for quickly evaluating IAM permissions in AWS.
 * [Prowler](https://github.com/toniblyx/prowler): Command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
+* [s3dns](https://github.com/olizimmermann/s3dns): Passive DNS-based discovery of S3 (and other cloud) buckets by resolving CNAMEs and IPs during recon—ideal for stealthy and early identification of cloud storage exposures 
 * [ScoutSuite](https://github.com/nccgroup/ScoutSuite): Multi-cloud security auditing tool.
 * [Security Monkey](https://github.com/Netflix/security_monkey): Monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
 * [SkyWrapper](https://github.com/cyberark/SkyWrapper): Tool helps to discover suspicious creation forms and uses of temporary tokens in AWS.
@@ -82,7 +83,7 @@ A curated list of awesome cloud security related resources.
 * [Terrascan](https://github.com/accurics/terrascan): Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 * [tfsec](https://github.com/liamg/tfsec): Static analysis powered security scanner for Terraform code.
 * [Zeus](https://github.com/DenizParlak/Zeus): AWS Auditing & Hardening Tool.
-* [s3dns](https://github.com/olizimmermann/s3dns) - Passive DNS-based discovery of S3 (and other cloud) buckets by resolving CNAMEs and IPs during recon—ideal for stealthy and early identification of cloud storage exposures 
+
 
 ## Container
 * [auditkube](https://github.com/opszero/auditkube): Audit for for EKS, AKS and GKE for HIPAA/PCI/SOC2 compliance and cloud security.
