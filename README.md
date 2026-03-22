@@ -49,6 +49,7 @@ A curated list of awesome cloud security related resources.
 * [awspx](https://github.com/FSecureLABS/awspx): A graph-based tool for visualizing effective access and resource relationships within AWS.
 * [azucar](https://github.com/nccgroup/azucar): A security auditing tool for Azure environments
 * [checkov](https://github.com/bridgecrewio/checkov): A static code analysis tool for infrastructure-as-code.
+* [ClawSec](https://clawsec.com/): Security audit platform for AI agent skills and MCP servers, providing vulnerability scanning, risk scoring, and supply chain verification.
 * [cloud-forensics-utils](https://github.com/google/cloud-forensics-utils): A python lib for DF & IR on the cloud.
 * [Cloud-Katana](https://github.com/Azure/Cloud-Katana): Automate the execution of simulation steps in multi-cloud and hybrid cloud environments.
 * [cloudlist](https://github.com/projectdiscovery/cloudlist): Listing Assets from multiple Cloud Providers.
