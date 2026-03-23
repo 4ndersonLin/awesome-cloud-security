@@ -71,6 +71,7 @@ A curated list of awesome cloud security related resources.
 * [Matano](https://github.com/matanolabs/matano): Open source serverless security lake platform on AWS that lets you ingest, store, and analyze data into an Apache Iceberg data lake and run realtime Python detections as code.
 * [Metabadger](https://github.com/salesforce/metabadger): Prevent SSRF attacks on AWS EC2 via automated upgrades to the more secure Instance Metadata Service v2 (IMDSv2).
 * [Open policy agent](https://www.openpolicyagent.org/): Policy-based control tool.
+* [ReleaseRun Terraform Security Scanner](https://releaserun.com/tools/terraform-security/): Browser-based .tf file security scanner. Checks for hardcoded AWS credentials, SSH/database ports open to 0.0.0.0/0, public S3 buckets, unencrypted RDS/EBS volumes, and missing deletion protection. A-F score with specific remediation.
 * [pacbot](https://github.com/tmobile/pacbot): Policy as Code Bot.
 * [pacu](https://github.com/RhinoSecurityLabs/pacu): The AWS exploitation framework.
 * [PMapper](https://github.com/nccgroup/PMapper): A tool for quickly evaluating IAM permissions in AWS.
@@ -89,6 +90,8 @@ A curated list of awesome cloud security related resources.
 * [Falco](https://github.com/falcosecurity/falco): Container runtime security.
 * [mkit](https://github.com/darkbitio/mkit): Managed kubernetes inspection tool.
 * [Open policy agent](https://www.openpolicyagent.org/): Policy-based control tool.
+* [ReleaseRun K8s YAML Security Linter](https://releaserun.com/tools/kubernetes-security-linter/): Browser-based Kubernetes YAML security scanner. Checks 12 misconfigurations (runAsRoot, privileged containers, missing resource limits, exposed secrets) and outputs an A-F grade with specific fixes.
+* [ReleaseRun Docker Compose Security Checker](https://releaserun.com/tools/docker-compose-security/): Browser-based Docker Compose security scanner. Detects Docker socket mounts, privileged containers, hardcoded secrets in env vars, and database ports bound to 0.0.0.0.
 
 ## SaaS
 * [aws-allowlister](https://github.com/salesforce/aws-allowlister): Automatically compile an AWS Service Control Policy with your preferred compliance frameworks.
