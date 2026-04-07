@@ -89,6 +89,7 @@ A curated list of awesome cloud security related resources.
 * [Falco](https://github.com/falcosecurity/falco): Container runtime security.
 * [mkit](https://github.com/darkbitio/mkit): Managed kubernetes inspection tool.
 * [Open policy agent](https://www.openpolicyagent.org/): Policy-based control tool.
+* [vens](https://github.com/venslabs/vens): Prioritize vulnerabilities by real risk, not just CVSS. Takes a Trivy or Grype scan and scores each CVE based on your system's actual context.
 
 ## SaaS
 * [aws-allowlister](https://github.com/salesforce/aws-allowlister): Automatically compile an AWS Service Control Policy with your preferred compliance frameworks.
