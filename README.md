@@ -85,6 +85,7 @@ A curated list of awesome cloud security related resources.
 * [Zeus](https://github.com/DenizParlak/Zeus): AWS Auditing & Hardening Tool.
 
 ## Container
+* [KubeStellar Console](https://github.com/kubestellar/console): Multi-cluster Kubernetes security dashboard with Falco, OPA, and Kyverno policy monitoring.
 * [auditkube](https://github.com/opszero/auditkube): Audit for for EKS, AKS and GKE for HIPAA/PCI/SOC2 compliance and cloud security.
 * [Falco](https://github.com/falcosecurity/falco): Container runtime security.
 * [mkit](https://github.com/darkbitio/mkit): Managed kubernetes inspection tool.
