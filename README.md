@@ -68,6 +68,7 @@ A curated list of awesome cloud security related resources.
 * [Hammer](https://github.com/dowjones/hammer): A multi-account cloud security tool for AWS. It identifies misconfigurations and insecure data exposures within most popular AWS resources.
 * [InfraScan](https://infrascan.soldevelo.com/): An Advanced Infrastructure Auditor by SolDevelo for AWS cost antipatterns, IaC security issues, and container vulnerabilities.
 * [kics](https://github.com/Checkmarx/kics): Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code.
+* [MANTIS Free Tools](https://mantiscore.ai/free-tools): Three browser-first security tools — dependency CVE scanner backed by OSV.dev (9 ecosystems), WAF identification across 75+ vendors, and IaC misconfig scanner for Kubernetes, CloudFormation, Terraform, docker-compose, and GitHub Actions. IaC scan runs entirely client-side, no signup.
 * [Matano](https://github.com/matanolabs/matano): Open source serverless security lake platform on AWS that lets you ingest, store, and analyze data into an Apache Iceberg data lake and run realtime Python detections as code.
 * [Metabadger](https://github.com/salesforce/metabadger): Prevent SSRF attacks on AWS EC2 via automated upgrades to the more secure Instance Metadata Service v2 (IMDSv2).
 * [Open policy agent](https://www.openpolicyagent.org/): Policy-based control tool.
