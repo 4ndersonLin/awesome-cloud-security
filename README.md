@@ -34,6 +34,9 @@ A curated list of awesome cloud security related resources.
 ## Benchmarks
 * [CIS Benchmark](https://www.cisecurity.org/cis-benchmarks/)
 
+## Infrastructure as Code
+* [awesome-terraform-compliance](https://github.com/antonbabenko/awesome-terraform-compliance): curated list of tools, frameworks, and resources for compliance, security, and governance in Terraform and OpenTofu infrastructure.
+
 # Tools
 - [Infrastructure](#infrastructure)
 - [Container](#container)
