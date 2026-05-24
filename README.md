@@ -74,7 +74,8 @@ A curated list of awesome cloud security related resources.
 * [pacbot](https://github.com/tmobile/pacbot): Policy as Code Bot.
 * [pacu](https://github.com/RhinoSecurityLabs/pacu): The AWS exploitation framework.
 * [PMapper](https://github.com/nccgroup/PMapper): A tool for quickly evaluating IAM permissions in AWS.
-* [Prowler](https://github.com/toniblyx/prowler): Command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
+* [Prowler](https://github.com/toniblyx/prowler)
+* [CloudAuditX](https://auditor.pyralink.co.uk): Free multi-framework cloud security scanner for AWS — audits across ISO 27001, NIST CSF 2.0, CIS, MITRE ATT&CK, STRIDE, and SCF in 30 seconds with no credentials required.: Command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
 * [ScoutSuite](https://github.com/nccgroup/ScoutSuite): Multi-cloud security auditing tool.
 * [Security Monkey](https://github.com/Netflix/security_monkey): Monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
 * [SkyWrapper](https://github.com/cyberark/SkyWrapper): Tool helps to discover suspicious creation forms and uses of temporary tokens in AWS.
