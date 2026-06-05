@@ -30,6 +30,7 @@ A curated list of awesome cloud security related resources.
 * [ISO/IEC 27017:2015](https://www.iso.org/standard/43757.html)
 * [ISO/IEC 27018:2019](https://www.iso.org/standard/76559.html)
 * [MTCS SS 584](https://www.imda.gov.sg/regulations-and-licensing-listing/ict-standards-and-quality-of-service/IT-Standards-and-Frameworks/ComplianceAndCertification)
+* [FedRAMP 20x KSI Action](https://github.com/Boundera/fedramp-20x-ksi-action): Open-source GitHub Action that evaluates Terraform infrastructure against FedRAMP 20x Key Security Indicators (KSIs) for U.S. federal cloud compliance.
 
 ## Benchmarks
 * [CIS Benchmark](https://www.cisecurity.org/cis-benchmarks/)
