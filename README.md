@@ -80,6 +80,7 @@ A curated list of awesome cloud security related resources.
 * [SkyWrapper](https://github.com/cyberark/SkyWrapper): Tool helps to discover suspicious creation forms and uses of temporary tokens in AWS.
 * [Smogcloud](https://github.com/BishopFox/smogcloud): Find cloud assets that no one wants exposed.
 * [Steampipe](https://github.com/turbot/steampipe): A Postgres FDW that maps APIs to SQL, plus suites of [API plugins](https://hub.steampipe.io/plugins) and [compliance mods](https://hub.steampipe.io/mods) for AWS/Azure/GCP and many others.
+* [StratusAI](https://github.com/anpa1200/stratus-ai): AI-powered AWS and GCP cloud security scanner with attack-chain synthesis, deployment guidance, and validation tests.
 * [Terrascan](https://github.com/accurics/terrascan): Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 * [tfsec](https://github.com/liamg/tfsec): Static analysis powered security scanner for Terraform code.
 * [Zeus](https://github.com/DenizParlak/Zeus): AWS Auditing & Hardening Tool.
@@ -114,6 +115,8 @@ A curated list of awesome cloud security related resources.
 * [Pwned Labs](https://pwnedlabs.io): Free hosted labs for learning cloud security.
 * [Sadcloud](https://github.com/nccgroup/sadcloud): Tool for spinning up insecure AWS infrastructure with Terraform.
 * [TerraGoat](https://github.com/bridgecrewio/terragoat): Bridgecrew's "Vulnerable by Design" Terraform repository.
+* [Vulnerable Cloud Lab](https://github.com/anpa1200/vulnerable-cloud-lab): Terraform-based intentionally vulnerable GCP and AWS lab for authorized cloud penetration-testing practice.
+* [Kubernetes Security Lab](https://medium.com/@1200km/building-a-vulnerable-kubernetes-lab-a-complete-guide-to-25-critical-security-issues-fae4fc8e3a91): Hands-on vulnerable Kubernetes lab guide covering privileged containers, hostPath mounts, exposed secrets, RBAC issues, and escape paths.
 * [WrongSecrets](https://github.com/commjoen/wrongsecrets): A vulnerable app which demonstrates how to not use secrets. With AWS/Azure/GCP support.
 
 ## Native tools
