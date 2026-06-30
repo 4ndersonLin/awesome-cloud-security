@@ -198,6 +198,7 @@ A curated list of awesome cloud security related resources.
 2. [CSA cloud security guidance v4](https://cloudsecurityalliance.org/artifacts/security-guidance-v4/)
 3. [Appsecco provides training](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training)
 4. [Cloud Risk Encyclopedia by Orca Security](https://orca.security/resources/cloud-risk-encyclopedia/): 900+ documented cloud security risks, with ability to filter by cloud vendor, compliance framework, risk category, and criticality.
+5. [ZX Cloud Security Guides](https://zxcloudsecurity.co.uk/guides/): Practitioner guides covering AWS WAF, CloudTrail, KMS, IAM, CSPM, Zero Trust, incident response, and cloud security CVEs. UK-focused resources for security architects.
 
 # Free Courses
 1. [AWS Security](https://www.youtube.com/playlist?list=PL0-xwzAwzllw_dvNfabV28-bpAEoMchd3)
