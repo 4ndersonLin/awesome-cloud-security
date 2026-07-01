@@ -103,6 +103,7 @@ A curated list of awesome cloud security related resources.
 * [Policy Sentry](https://github.com/salesforce/policy_sentry): IAM Least Privilege Policy Generator.
 * [S3 Inspector](https://github.com/kromtech/s3-inspector): Tool to check AWS S3 bucket permissions.
 * [Serverless Goat](https://github.com/OWASP/Serverless-Goat): A serverless application demonstrating common serverless security flaws.
+* [Shieldly](https://www.shieldly.io): AI-powered AWS IAM, resource policy, and CloudFormation security analysis that explains why a permission is risky and how to fix it. Free demo, no signup.
 * [SkyArk](https://github.com/cyberark/SkyArk): Tool to helps to discover, assess and secure the most privileged entities in Azure and AWS.
 
 ## Penetration testing/learning
