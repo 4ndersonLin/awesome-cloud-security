@@ -110,6 +110,7 @@ A curated list of awesome cloud security related resources.
 * [ccat](https://github.com/RhinoSecurityLabs/ccat): Cloud Container Attack Tool.
 * [CloudBrute](https://github.com/0xsha/CloudBrute): A multiple cloud enumerator.
 * [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat): "Vulnerable by Design" AWS deployment tool.
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon): Open source autonomous AI penetration testing platform that orchestrates offensive tooling via Markdown playbooks, with strong cloud and Kubernetes coverage.
 * [Leonidas](https://github.com/FSecureLABS/leonidas): A framework for executing attacker actions in the cloud.
 * [Pwned Labs](https://pwnedlabs.io): Free hosted labs for learning cloud security.
 * [Sadcloud](https://github.com/nccgroup/sadcloud): Tool for spinning up insecure AWS infrastructure with Terraform.
