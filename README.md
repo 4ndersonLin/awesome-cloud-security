@@ -53,6 +53,7 @@ A curated list of awesome cloud security related resources.
 * [Cloud-Katana](https://github.com/Azure/Cloud-Katana): Automate the execution of simulation steps in multi-cloud and hybrid cloud environments.
 * [cloudlist](https://github.com/projectdiscovery/cloudlist): Listing Assets from multiple Cloud Providers.
 * [Cloud Sniper](https://github.com/cloud-sniper/cloud-sniper): A platform designed to manage Cloud Security Operations.
+* [CloudSentrix](https://github.com/Talha-Imran-cloud/cloudsentrix): Open-source multi-cloud IAM attack-path analyzer for AWS, Azure, GCP, Kubernetes, and Terraform with blast radius analysis and MITRE ATT&CK mapping.
 * [Cloudmapper](https://github.com/duo-labs/cloudmapper): Analyze your AWS environments.
 * [Cloudmarker](https://github.com/cloudmarker/cloudmarker): A cloud monitoring tool and framework.
 * [Cloudsploit](https://github.com/aquasecurity/cloudsploit): Cloud security configuration checks.
