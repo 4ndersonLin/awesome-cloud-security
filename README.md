@@ -103,6 +103,7 @@ A curated list of awesome cloud security related resources.
 * [Policy Sentry](https://github.com/salesforce/policy_sentry): IAM Least Privilege Policy Generator.
 * [S3 Inspector](https://github.com/kromtech/s3-inspector): Tool to check AWS S3 bucket permissions.
 * [Serverless Goat](https://github.com/OWASP/Serverless-Goat): A serverless application demonstrating common serverless security flaws.
+* [sf-audit](https://github.com/cclabsnz/sf-audit-plugin): Read-only security posture audit of a Salesforce org, run as a Salesforce CLI plugin. 88 checks across identity, access, data, code, integrations and Agentforce/GenAI, correlated into attack chains, scored A-F, and mapped to OWASP, SOC 2 and ISO 27001.
 * [SkyArk](https://github.com/cyberark/SkyArk): Tool to helps to discover, assess and secure the most privileged entities in Azure and AWS.
 
 ## Penetration testing/learning
