@@ -65,6 +65,7 @@ A curated list of awesome cloud security related resources.
 * [diffy](https://github.com/Netflix-Skunkworks/diffy): Diffy is a digital forensics and incident response (DFIR) tool developed by Netflix.
 * [ElectricEye](https://github.com/jonrau1/ElectricEye): Continuously monitor AWS services for configurations.
 * [Forseti security](https://github.com/forseti-security/forseti-security): GCP inventory monitoring and policy enforcement tool.
+* [Google Cloud Security Readiness Check](https://www.invoixy.ro/en/tools/google-cloud-security-check): Free client-side self-assessment covering 29 scored questions across seven GCP security domains, with relevant official Google Cloud documentation references.
 * [Hammer](https://github.com/dowjones/hammer): A multi-account cloud security tool for AWS. It identifies misconfigurations and insecure data exposures within most popular AWS resources.
 * [InfraScan](https://infrascan.soldevelo.com/): An Advanced Infrastructure Auditor by SolDevelo for AWS cost antipatterns, IaC security issues, and container vulnerabilities.
 * [kics](https://github.com/Checkmarx/kics): Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code.
