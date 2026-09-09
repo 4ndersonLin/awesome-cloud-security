@@ -53,6 +53,7 @@ A curated list of awesome cloud security related resources.
 * [Cloud-Katana](https://github.com/Azure/Cloud-Katana): Automate the execution of simulation steps in multi-cloud and hybrid cloud environments.
 * [cloudlist](https://github.com/projectdiscovery/cloudlist): Listing Assets from multiple Cloud Providers.
 * [Cloud Sniper](https://github.com/cloud-sniper/cloud-sniper): A platform designed to manage Cloud Security Operations.
+* [Cloud Security Audit Scripts](https://github.com/TrazTech-Inc/cloud-security-audit-scripts): Python-based pre-audit security assessment scripts for AWS, GCP, and Azure with SOC 2 control mappings.
 * [Cloudmapper](https://github.com/duo-labs/cloudmapper): Analyze your AWS environments.
 * [Cloudmarker](https://github.com/cloudmarker/cloudmarker): A cloud monitoring tool and framework.
 * [Cloudsploit](https://github.com/aquasecurity/cloudsploit): Cloud security configuration checks.
