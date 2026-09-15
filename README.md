@@ -73,6 +73,7 @@ A curated list of awesome cloud security related resources.
 * [Open policy agent](https://www.openpolicyagent.org/): Policy-based control tool.
 * [pacbot](https://github.com/tmobile/pacbot): Policy as Code Bot.
 * [pacu](https://github.com/RhinoSecurityLabs/pacu): The AWS exploitation framework.
+* [PerspectiveGraph](https://github.com/luiacuaniello/perspectivegraph): Correlates scanner findings with IAM, network and Kubernetes data into a graph of reachable attack paths to sensitive assets.
 * [PMapper](https://github.com/nccgroup/PMapper): A tool for quickly evaluating IAM permissions in AWS.
 * [Prowler](https://github.com/toniblyx/prowler): Command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
 * [ScoutSuite](https://github.com/nccgroup/ScoutSuite): Multi-cloud security auditing tool.
