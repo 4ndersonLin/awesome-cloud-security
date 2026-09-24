@@ -198,6 +198,7 @@ A curated list of awesome cloud security related resources.
 2. [CSA cloud security guidance v4](https://cloudsecurityalliance.org/artifacts/security-guidance-v4/)
 3. [Appsecco provides training](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training)
 4. [Cloud Risk Encyclopedia by Orca Security](https://orca.security/resources/cloud-risk-encyclopedia/): 900+ documented cloud security risks, with ability to filter by cloud vendor, compliance framework, risk category, and criticality.
+5. [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive): Open database of real-world AI agent security incidents, including agents deleting cloud infrastructure, AI-assisted intrusions into AWS, LLMjacking and cloud AI platform CVEs, each with primary sources.
 
 # Free Courses
 1. [AWS Security](https://www.youtube.com/playlist?list=PL0-xwzAwzllw_dvNfabV28-bpAEoMchd3)
