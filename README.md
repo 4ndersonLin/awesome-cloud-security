@@ -83,7 +83,8 @@ A curated list of awesome cloud security related resources.
 * [Terrascan](https://github.com/accurics/terrascan): Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 * [tfsec](https://github.com/liamg/tfsec): Static analysis powered security scanner for Terraform code.
 * [Zeus](https://github.com/DenizParlak/Zeus): AWS Auditing & Hardening Tool.
-
+* [cloudg](https://github.com/morpheuslord/cloudg) - Map, graph and audit AWS, Azure and GCP from one CLI, with attack path analysis, Prowler/Checkov/Trivy integration and compliance mapping across 28 frameworks.
+  
 ## Container
 * [auditkube](https://github.com/opszero/auditkube): Audit for for EKS, AKS and GKE for HIPAA/PCI/SOC2 compliance and cloud security.
 * [Falco](https://github.com/falcosecurity/falco): Container runtime security.
