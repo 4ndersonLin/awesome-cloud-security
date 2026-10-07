@@ -215,6 +215,7 @@ A curated list of awesome cloud security related resources.
 
 # Trainings
 1. [Attacking and Defending AWS](https://resources.tryhackme.com/attacking-and-defending-aws) 
+2. [RansomLeak Cloud Security Training](https://ransomleak.com/catalogue/cloud-security/)
 
 # Certifications
 1. [CCSP – Certified Cloud Security Professional](https://www.isc2.org/Certifications/CCSP) 
