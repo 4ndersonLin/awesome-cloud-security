@@ -82,6 +82,7 @@ A curated list of awesome cloud security related resources.
 * [Steampipe](https://github.com/turbot/steampipe): A Postgres FDW that maps APIs to SQL, plus suites of [API plugins](https://hub.steampipe.io/plugins) and [compliance mods](https://hub.steampipe.io/mods) for AWS/Azure/GCP and many others.
 * [Terrascan](https://github.com/accurics/terrascan): Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 * [tfsec](https://github.com/liamg/tfsec): Static analysis powered security scanner for Terraform code.
+* [Vulert](https://vulert.com): Detects vulnerabilities in open source dependencies without accessing code, with support for JavaScript, PHP, Java, Python, and more.
 * [Zeus](https://github.com/DenizParlak/Zeus): AWS Auditing & Hardening Tool.
 
 ## Container
@@ -114,6 +115,7 @@ A curated list of awesome cloud security related resources.
 * [Pwned Labs](https://pwnedlabs.io): Free hosted labs for learning cloud security.
 * [Sadcloud](https://github.com/nccgroup/sadcloud): Tool for spinning up insecure AWS infrastructure with Terraform.
 * [TerraGoat](https://github.com/bridgecrewio/terragoat): Bridgecrew's "Vulnerable by Design" Terraform repository.
+* [Vulert](https://vulert.com/): Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 * [WrongSecrets](https://github.com/commjoen/wrongsecrets): A vulnerable app which demonstrates how to not use secrets. With AWS/Azure/GCP support.
 
 ## Native tools
