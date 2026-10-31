@@ -116,6 +116,8 @@ A curated list of awesome cloud security related resources.
 * [TerraGoat](https://github.com/bridgecrewio/terragoat): Bridgecrew's "Vulnerable by Design" Terraform repository.
 * [WrongSecrets](https://github.com/commjoen/wrongsecrets): A vulnerable app which demonstrates how to not use secrets. With AWS/Azure/GCP support.
 
+* [Cloud-IAM-Red-Lab](https://github.com/ranas-mukminov/Cloud-IAM-Red-Lab): Simulated cloud IAM privilege-escalation lab with fictional IAM data, an escalation-path detector and remediation guidance. No real cloud, no credentials.
+
 ## Native tools
 * AWS
   * [Artifact](https://aws.amazon.com/artifact/): Compliance report selfservice.
