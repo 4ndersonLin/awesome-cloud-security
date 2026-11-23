@@ -100,6 +100,7 @@ A curated list of awesome cloud security related resources.
 * [GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute): A script to enumerate Google Storage buckets.
 * [IAM Zero](https://github.com/common-fate/iamzero): Detects identity and access management issues and automatically suggests least-privilege policies.
 * [Lambda Guard](https://github.com/Skyscanner/LambdaGuard): AWS Lambda auditing tool.
+* [pathbreak-audit](https://github.com/pathbreak-io/pathbreak-audit): Read-only CLI that lists the IAM roles and users in an AWS account that hold abusable permissions and toxic combinations, with the least-privilege fix for each.
 * [Policy Sentry](https://github.com/salesforce/policy_sentry): IAM Least Privilege Policy Generator.
 * [S3 Inspector](https://github.com/kromtech/s3-inspector): Tool to check AWS S3 bucket permissions.
 * [Serverless Goat](https://github.com/OWASP/Serverless-Goat): A serverless application demonstrating common serverless security flaws.
@@ -182,6 +183,7 @@ A curated list of awesome cloud security related resources.
 3. [MITRE ATT&CK Matrices of AWS](https://attack.mitre.org/matrices/enterprise/cloud/aws/)
 4. [AWS security workshops](https://github.com/aws-samples/aws-security-workshops)
 5. [ThreatModel for Amazon S3](https://github.com/trustoncloud/threatmodel-for-aws-s3): Library of all the attack scenarios on Amazon S3, and how to mitigate them following a risk-based approach
+6. [AWS Privilege Escalation Map by Pathbreak](https://pathbreak.io/aws-privilege-escalation-map): Reference of abusable AWS permissions and toxic combinations, with the CloudTrail events that show each one and the change that breaks it.
 ## Azure
 1. [Overiew of Azure Security](https://azure.microsoft.com/en-us/overview/security/)
 2. [Azure security fundamentals](https://docs.microsoft.com/en-us/azure/security/fundamentals/)
