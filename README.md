@@ -104,6 +104,7 @@ A curated list of awesome cloud security related resources.
 * [S3 Inspector](https://github.com/kromtech/s3-inspector): Tool to check AWS S3 bucket permissions.
 * [Serverless Goat](https://github.com/OWASP/Serverless-Goat): A serverless application demonstrating common serverless security flaws.
 * [SkyArk](https://github.com/cyberark/SkyArk): Tool to helps to discover, assess and secure the most privileged entities in Azure and AWS.
+* [VibeShield](https://shipbastion.com/): Free read-only pre-launch security scanner for modern SaaS and AI-built web apps covering TLS 443, CNAME takeover, client JS bundle secret detection (52 rules), Supabase RLS/Firebase rules, and Mozilla Observatory CSP AST checks.
 
 ## Penetration testing/learning
 * [AWSGoat](https://github.com/ine-labs/AWSGoat): AWSGoat is a vulnerable by design AWS infrastructure featuring OWASP Top 10 web application security risks (2021) and AWS service based misconfigurations.
